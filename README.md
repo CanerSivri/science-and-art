@@ -4,6 +4,12 @@ UI for filtering:
 <img width="1915" height="1039" alt="1" src="https://github.com/user-attachments/assets/92f06661-aecf-4bf0-a60f-9f9c9f030a7b" />
 
 
+Original Image:
+
+
+![cat](https://github.com/user-attachments/assets/d405d4ac-6eb5-4c9d-bbe7-67441eb1539d)
+
+
 Gray Scale Filter:
 
 
