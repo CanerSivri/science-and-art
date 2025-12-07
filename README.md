@@ -1,19 +1,33 @@
 Case 1 (500,0.95,0.7):
+
+
 <img width="306" height="172" alt="1" src="https://github.com/user-attachments/assets/19e44c30-1e9d-4cba-be21-8988745f9b93" />
 Outputs:
+
+
 <img width="1918" height="1037" alt="1 1" src="https://github.com/user-attachments/assets/fe859cea-d4fc-44bd-ac86-bf459b61008c" />
 
 
 Case 2 (700,1,1):
+
+
 <img width="309" height="170" alt="2" src="https://github.com/user-attachments/assets/059bdd9a-43d9-4523-92e7-591dd2188e66" />
 Outputs:
+
+
 <img width="1912" height="1041" alt="2 1" src="https://github.com/user-attachments/assets/3a0bc3cf-9f82-4a57-8fb1-3935affa5e6f" />
 
 
 Case 3 (300,0.5,0.5):
+
+
 <img width="290" height="174" alt="3" src="https://github.com/user-attachments/assets/55028512-12c8-4564-9b9f-9d42d5515326" />
 Outputs:
+
+
 <img width="1912" height="1037" alt="3 1" src="https://github.com/user-attachments/assets/d334b51e-30da-40d3-84f0-28c46a5dacf8" />
+
+
 
 -> max_length: This parameter controls the maximum number of tokens (words or sub-word units) the model will generate for its response.
 Increasing max_length: Allows for longer, more detailed, and potentially more comprehensive responses. However, it can also lead to the model repeating itself or losing coherence over very long generations.
