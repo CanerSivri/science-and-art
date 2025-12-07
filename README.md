@@ -2,6 +2,8 @@ Case 1 (500,0.95,0.7):
 
 
 <img width="306" height="172" alt="1" src="https://github.com/user-attachments/assets/19e44c30-1e9d-4cba-be21-8988745f9b93" />
+
+
 Outputs:
 
 
@@ -12,6 +14,8 @@ Case 2 (700,1,1):
 
 
 <img width="309" height="170" alt="2" src="https://github.com/user-attachments/assets/059bdd9a-43d9-4523-92e7-591dd2188e66" />
+
+
 Outputs:
 
 
@@ -22,6 +26,8 @@ Case 3 (300,0.5,0.5):
 
 
 <img width="290" height="174" alt="3" src="https://github.com/user-attachments/assets/55028512-12c8-4564-9b9f-9d42d5515326" />
+
+
 Outputs:
 
 
